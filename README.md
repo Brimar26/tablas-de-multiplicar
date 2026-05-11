@@ -174,7 +174,7 @@
         const totalQuestions = 20;
 
         // Crear elementos flotantes de fondo
-        const symbols = ['+', '-', '×', '÷', 'π', 'Σ', '8', '5', '3', '√'];
+        const symbols = ['✖️', '🔢', '🤖', '🟰', '💡', '🚀', '🎯'];
         const bgContainer = document.getElementById('bg-elements');
         for (let i = 0; i < 20; i++) {
             let el = document.createElement('div');
