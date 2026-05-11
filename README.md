@@ -143,8 +143,8 @@
         
         <div id="start-screen">
             <h1>MATE-BLAST</h1>
-            <p>¡Supera el reto de las 20 tablas!</p>
-            <button class="btn" onclick="startGame()">EMPEZAR PARTIDA</button>
+            <p>¡Supera el reto de las tablas!</p>
+            <button class="btn" onclick="startGame()">EMPEZAR</button>
         </div>
 
         <div id="game-screen" class="hidden">
