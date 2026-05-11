@@ -1,4 +1,4 @@
-<SUERTE - APRENDE JUGANDO>
+
 <html lang="es">
 <head>
     <meta charset="UTF-8">
