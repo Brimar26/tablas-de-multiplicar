@@ -23,7 +23,7 @@
             justify-content: center;
             align-items: center;
             overflow: hidden;
-            perspective: 1000px;
+            perspective: 800px;
         }
 
         /* Fondo de Iconos Flotantes */
@@ -53,7 +53,7 @@
             border: 3px solid var(--primary);
             border-radius: 25px;
             padding: 40px;
-            width: 500px;
+            width: 400px;
             text-align: center;
             box-shadow: 0 0 30px rgba(0, 242, 255, 0.4);
             position: relative;
