@@ -143,8 +143,8 @@
         
         <div id="start-screen">
             <h1>MATE-BLAST</h1>
-            <p>¡Supera el reto de las tablas!</p>
-            <button class="btn" onclick="startGame()">EMPEZAR</button>
+            <p>¡Supera el reto de las 20 tablas!</p>
+            <button class="btn" onclick="startGame()">EMPEZAR PARTIDA</button>
         </div>
 
         <div id="game-screen" class="hidden">
@@ -174,7 +174,7 @@
         const totalQuestions = 20;
 
         // Crear elementos flotantes de fondo
-        const symbols = ['+', '-', '×', '÷', '8', '5', '3'];
+        const symbols = ['✖️', '🔢', '🤖', '🟰', '💡', '🚀', '🎯'];
         const bgContainer = document.getElementById('bg-elements');
         for (let i = 0; i < 20; i++) {
             let el = document.createElement('div');
